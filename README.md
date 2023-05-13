@@ -273,4 +273,4 @@ git shortlog -se \
   | perl -spe 's/^\s+\d+\s+//' \
   | sed -e '/^CommitSyncScript.*$/d' \
   > AUTHORS
-  ```
+  ```Samuel Fosu (sfosu003@gmail.com)
