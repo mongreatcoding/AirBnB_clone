@@ -1,7 +1,6 @@
 # 0x01. AirBnB clone - Web static
 
-## Learning Objectives:bulb:
-What you should learn from this project:
+## Learning Objectives:
 
 * What is HTML
 * How to create an HTML page
@@ -71,4 +70,3 @@ What you should learn from this project:
 * Improve the page by adding Accessibility support
 
 ---
-:wq
